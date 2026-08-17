@@ -1,1 +1,8 @@
-merge: fix-markdown-bug - not something we can merge
+$ git checkout main
+Switched to branch 'main'
+$ git merge bug-fix-typo
+error: Your local changes to the following files would be overwritten by merge:
+	merge_branches
+Please commit your changes or stash them before you merge.
+Aborting
+Updating ba2aa27..267b717

@@ -1,0 +1,6 @@
+  bug-fix-typo          ba2aa27 Fix typo
+  bug_fix_typo          3319592 Fix typo in README
+* main                  ba2aa27 [ahead 2] Fix typo
+  remotes/origin/main   bc1bf06 bug_fix_revert
+  remotes/upstream/HEAD -> upstream/main
+  remotes/upstream/main ad95b0a Create close_pr.yml
