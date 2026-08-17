@@ -1,8 +1,7 @@
 $ git checkout main
 Switched to branch 'main'
 $ git merge bug-fix-typo
-error: Your local changes to the following files would be overwritten by merge:
-	merge_branches
-Please commit your changes or stash them before you merge.
-Aborting
-Updating ba2aa27..267b717
+Updating 527e85d..66dd3cb
+Fast-forward
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
