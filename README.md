@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+## Project Status
+This repository now includes open-source community guidelines and Apache 2.0 licensing.
